@@ -1,0 +1,22 @@
+{
+  "name": "birthday-application",
+  "description": "Birthday application to help HR's",
+  "main": "index.js",
+  "authors": [
+    "Shubham Bhatt"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/s4tr2/Birthday-Application",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^4.1.1",
+    "font-awesome": "^5.0.13"
+  }
+}
